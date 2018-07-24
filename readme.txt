@@ -1,4 +1,4 @@
 Git is a version control system.
 Git is free software.
 Git has changed.
-This is my first git.
+This is the first git.
